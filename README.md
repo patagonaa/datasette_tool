@@ -12,6 +12,7 @@ cat out.raw | ./decoder.out 2> /dev/null
 (default format: unsigned 8-bit mono, 48000Hz)
 
 ## Compile with:
+Note: Requires GCC to compile properly. 
 ```c
 make
 ```
